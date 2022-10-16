@@ -1,0 +1,4 @@
+DOGS
+DOCTOR
+DONUT
+Dolphin
